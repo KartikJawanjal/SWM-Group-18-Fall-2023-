@@ -1,4 +1,4 @@
-# SWM-Group-18-Fall-2023-
+# SWM-Group-18-Fall-2023-Directional Stock Prediction using Viral Tweets & News
 
 ### This is project built as a requirement for course CSE 573 Semantic Web Mining at Arizona State University.
 
