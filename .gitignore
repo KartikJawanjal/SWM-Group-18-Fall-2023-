@@ -1,0 +1,9 @@
+__pycache__
+CODE/dataset/*
+CODE/metrics/*
+CODE/models/*
+CODE/plots/*
+!.gitkeep
+*.err
+*.out
+*.sh
