@@ -1,8 +1,17 @@
 # SWM-Group-18-Fall-2023-Directional Stock Prediction using Viral Tweets & News
 
-### This is project built as a requirement for course CSE 573 Semantic Web Mining at Arizona State University.
+### This is a project built as a requirement for the course CSE 573 Semantic Web Mining at Arizona State University.
 
 ### This project focuses on harnessing the power of viral tweets and news data to accurately predict stock prices for two prominent technology companies, Amazon and Apple. We employ natural language processing (NLP) techniques and machine learning algorithms to extract valuable insights from social media and news sources. The project presents the methodology and techniques used to achieve this goal and evaluate the predictive performance of our models.
+
+### CODE
+
+### DATA
+
+This folder contains the "dataset.txt" file. The file includes the link to the dataset on Google Drive, and access is restricted. To obtain permission to access the dataset, please request it, and the owner will grant it as soon as possible.
+
+### EVALUATION
+This folder contains the results after performing K-fold cross-validation on BERT and other classical methods. The graphs in this folder are for the best-performing fold and the image with a tabular column for classical methods is the averaged values of the respective metric over all folds.  
 
 Steps to run BERT: 
 1. Head to the CODE directory and open the file main.py
