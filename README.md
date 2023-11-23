@@ -12,6 +12,7 @@
 5. ``` inference.py ``` contains the code for running the inference engine for BERT
 6. ``` main.py ``` contains the base code for BERT
 7. ``` helper.py ``` contains the code to get the
+
 8.  
 Steps to run BERT: 
 1. Head to the CODE directory and open the file main.py
