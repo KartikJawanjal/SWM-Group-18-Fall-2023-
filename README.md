@@ -17,8 +17,9 @@
 10. ``` SVM-Final.ipynb ``` contains code to apply SVM on the dataset
 11. ``` Preprocess_Amazon.py ``` contains code to get labels for Amazon data based on stock charts
 12. ``` Preprocess_Apple.py ``` contains code to get labels for Apple data based on stock charts
-13. ``` Logistic Regression(**).ipynb ``` contains code to perform Logistic regression for various data: Amazon daily, Amazon hourly, Apple Daily , Apple hourly
-14. ``` Data Extraction and Preprocess.ipynb ``` 
+13. ``` Logistic Regression(**).ipynb ``` contains code to perform Logistic regression for various data: Amazon daily, Amazon hourly, Apple Daily, Apple hourly
+14. ``` Data Extraction and Preprocess.ipynb ``` contains code to extract data from given zipped files and prepare data for further tasks
+15. ``` Accuracy_TrainingLoss_ValidationLossVsepochsPlots.ipynb ``` contains code to get plots for various metrics
 
 Steps to run BERT: 
 1. Head to the CODE directory and open the file main.py
